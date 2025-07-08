@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnhancedWatchdog", "EnhancedWatchdog.csproj", "{27097285-AA7B-4446-B4CD-33B4396168FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27097285-AA7B-4446-B4CD-33B4396168FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27097285-AA7B-4446-B4CD-33B4396168FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27097285-AA7B-4446-B4CD-33B4396168FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27097285-AA7B-4446-B4CD-33B4396168FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {82D175B1-1949-499D-BE99-EBF66AB8E429}
+	EndGlobalSection
+EndGlobal
